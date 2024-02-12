@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ KAMMA VINAY
 - 👀 I’m interested in LEARNING
-- 🌱 I’m currently learning DATA SCINCE
+- 🌱 I’m currently learning Web development
  - 📫 How to reach me by
  -                      mail: vinaykamma07@gmail.com,
- -                      phone no:7569980199,
+ -                     
 
 <!---
 KAMMAVINAY/KAMMAVINAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
